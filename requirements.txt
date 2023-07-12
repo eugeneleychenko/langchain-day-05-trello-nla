@@ -1,0 +1,8 @@
+langchain 
+openai 
+py-trello 
+beautifulsoup4 
+tiktoken 
+faiss-cpu
+dotenv
+os
